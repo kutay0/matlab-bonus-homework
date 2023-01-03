@@ -1,5 +1,5 @@
 # matlab-bonus-homework
-untitled.m is the matlab file;
+untitled.m is the matlab file
 plot.pdf is the output of the matlab code
 
 # untitled.m
