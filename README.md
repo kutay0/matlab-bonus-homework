@@ -1,6 +1,6 @@
 # matlab-bonus-homework
-untitled.m is the matlab file
-plot.pdf is the output of the matlab code
+My bonus homework for EEE213, which I chose '10 years projection of Turkey's population'.
+Includes the original matlab file and the output of the plot.
 
 # untitled.m
 An add-on named 'Curve Fitting Toolbox' is used
